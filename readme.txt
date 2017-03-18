@@ -1,0 +1,1 @@
+The first attempts of using git from console :)
